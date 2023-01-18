@@ -4,7 +4,7 @@ setup(
     name='mini-paquete',
     version='0.1',
     packages=['mini-package'],
-    url='https://github.com//mi_paquete',
+    url='https://github.com/pipeta/mi_paquete',
     license='',
     author='Felipe',
     author_email='pipe.tapia.guerra1@gmail.com',
