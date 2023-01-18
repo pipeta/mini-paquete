@@ -1,0 +1,8 @@
+name: PaquetePrueba
+dependencies:
+  - beautifulsoup4
+  - pandas
+  - requests
+channels:
+  - defaults
+prefix: /home/felipe/anaconda3/envs/PaquetePrueba
